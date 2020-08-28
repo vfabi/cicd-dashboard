@@ -17,7 +17,7 @@ Jenkins builds stats/charts
 
 ![Image description](.fls/screen3.png)
 
-Deployments dashboard (applications distribution per environment and Kubernetes namespace)
+Deployments dashboard (applications distribution in environments and Kubernetes namespaces)
 
 ![Image description](.fls/screen4.png)
 
