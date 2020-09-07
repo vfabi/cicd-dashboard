@@ -5,22 +5,30 @@ Sourcecode is not public yet. Used in several commercial environments.
 
 
 ## Screens
-Jenkins builds dashboard
+Builds module - Jenkins builds dashboard
 
 ![Image description](.fls/screen1.png)
 
-Jenkins builds dashboard
+Builds module - Jenkins builds dashboard
 
 ![Image description](.fls/screen2.png)
 
-Jenkins builds stats/charts
+Builds module - Jenkins builds stats/charts
 
 ![Image description](.fls/screen3.png)
 
-Deployments dashboard (application releases distribution in environments and Kubernetes namespaces)
+Deployments module - dashboard (application releases distribution across environments and Kubernetes namespaces)
 
 ![Image description](.fls/screen4.png)
 
-Deployments history
+Deployments module - history
 
 ![Image description](.fls/screen5.png)
+
+Kubernetes module - pods
+
+![Image description](.fls/screen6.png)
+
+Kubernetes module - deployments
+
+![Image description](.fls/screen7.png)
