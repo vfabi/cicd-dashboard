@@ -1,6 +1,11 @@
 # Jenkins CI-CD dashboard
 
-Jenkins CI-CD dashboard application.  
+Jenkins CI-CD dashboard web application.  
+Modules:
+* Builds - Jenkins builds dashboard, Jenkins builds stats/charts
+* Deployments - deployments dashboard and history based on data from Jenkins builds
+* Kubernetes - online Kubernetes clusters data. Deployments, pods list and statuses, pod logs. 
+
 Sourcecode is not public yet. Used in several commercial environments.
 
 
